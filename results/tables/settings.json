@@ -1,0 +1,40 @@
+{
+  "NASA_CELLS": [
+    "B0005",
+    "B0006",
+    "B0007",
+    "B0018"
+  ],
+  "CALCE_CELLS": [
+    "CS2_35",
+    "CS2_36",
+    "CS2_37",
+    "CS2_38"
+  ],
+  "FT_CELL": "CS2_35",
+  "EOL": 0.8,
+  "SEQ": 10,
+  "FRACTIONS": [
+    0.1,
+    0.25,
+    0.5,
+    1.0
+  ],
+  "SEEDS": [
+    42,
+    7,
+    123
+  ],
+  "FEATS": [
+    "tv_rel",
+    "v300",
+    "vm600",
+    "dv0"
+  ],
+  "EPOCHS_SRC": 150,
+  "EPOCHS_TGT": 150,
+  "BATCH": 16,
+  "PATIENCE": 15,
+  "RUL_SCALE_SRC": 91.75,
+  "RUL_SCALE_TGT": 525.0
+}
